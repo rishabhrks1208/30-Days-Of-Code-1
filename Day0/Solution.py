@@ -1,7 +1,8 @@
-#Compatible with python3
-# Read a full line of input from stdin and save it to our dynamically typed variable, input_string.
-inputString = input()
+#By Python 3
+inputString = input() # get a line of input from stdin and save it to our variable
 
-# Print a string literal saying "Hello, World." to stdout.
+# Your first line of output goes here
 print('Hello, World.')
+
+# Write the second line of output
 print(inputString)
